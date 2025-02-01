@@ -1,4 +1,4 @@
 # install-clojure
 ```shell
-curl -s https://raw.githubusercontent.com/chubbyhippo/install-clojure/refs/heads/main/install-clojure.sh | /usr/bin/env sh
+curl -s https://raw.githubusercontent.com/chubbyhippo/clojure/refs/heads/main/install.sh | /usr/bin/env sh
 ```
